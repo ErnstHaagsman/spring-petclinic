@@ -1,0 +1,4 @@
+[[configurations]]
+name = "spring-petclinic"
+type = "docker-compose"
+file = "${workspaceDir}/docker-compose.yml"
